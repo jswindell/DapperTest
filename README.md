@@ -1,0 +1,1 @@
+Simple console app to test Dapper ORM (https://github.com/SamSaffron/dapper-dot-net)
